@@ -3,4 +3,4 @@ Disallow: /admin
 
 Allow: /sitemap.xml
 
-Sitemap: https://ragdoll-archers.github.io/sitemap.xml
+Sitemap: https://fruit-merge.github.io/sitemap.xml
